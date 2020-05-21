@@ -1,0 +1,10 @@
+imblearn==0.0
+nltk==3.5
+numpy==1.18.4
+pandas==1.0.3
+scikit_learn==0.23.1
+spacy==2.2.4
+xgboost==1.1.0
+xlrd==1.2.0
+easygui==0.98.1
+openpyxl==2.6.4
